@@ -72,15 +72,26 @@ h2 {
   font-size: 50px;
   margin: 20px 0;
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+}
 main {
   max-width: 800px;
   margin: 0 auto;
+  padding: 0 20px;
 }
 
 main img {
   max-width: 100%;
 }
 
+/* footer */
 footer {
   background-color: rgb(47, 115, 242);
   padding: 40px;
@@ -100,4 +111,10 @@ footer a:visited {
 
 footer a:hover {
   color: rgb(255, 192, 74);
+}
+
+@media (max-width: 60px) {
+  footer p {
+    font-size: 16px;
+  }
 }
