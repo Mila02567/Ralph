@@ -23,6 +23,19 @@ ol {
   list-style-position: inside;
 }
 
+a,
+a:visited {
+  color: rgb(255, 74, 74);
+}
+
+a:hover {
+  color: rgb(74, 119, 255);
+}
+
+a:active {
+  color: rgb(164, 74, 255);
+}
+
 p.caption {
   font-size: 16px;
   color: rgb(120, 120, 120);
