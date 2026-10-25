@@ -80,3 +80,13 @@ main {
 main img {
   max-width: 100%;
 }
+
+footer {
+  background-color: rgb(47, 115, 242);
+  padding: 40px;
+}
+
+footer .content {
+  width: 800px;
+  margin: 0 auto;
+}
