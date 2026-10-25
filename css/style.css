@@ -16,6 +16,13 @@ ol {
   font-size: 20px;
   line-height: 30px;
 }
+
+p.caption {
+  font-size: 16px;
+  color: rgb(120, 120, 120);
+  font-style: oblique;
+}
+
 header {
   text-align: center;
   background-color: rgb(47, 115, 242);
