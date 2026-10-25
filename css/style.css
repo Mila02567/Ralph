@@ -99,3 +99,6 @@ footer a:visited {
 footer a:hover {
   color: rgb(255, 192, 74);
 }
+a:active {
+  color: rgb(164, 74, 255);
+}
